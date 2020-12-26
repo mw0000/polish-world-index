@@ -1,0 +1,1295 @@
+link_id,is_valid_url,status,domain_name,tld_name,subdomain_name
+1,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.cecis.udel.edu
+",www.cecis.udel.edu,edu,edu
+2,TRUE,200,www.ae.katowice.pl,pl,katowice.pl
+3,TRUE,200,mmc.amg.com.pl,pl,com.pl
+4,TRUE,404,www.ia.amu.edu.pl,pl,edu.pl
+5,TRUE,404,194.181.124.1,NA,NA
+6,TRUE,403,www.oa.uj.edu.pl,pl,edu.pl
+7,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: ajax.umcs.lublin.pl
+",ajax.umcs.lublin.pl,pl,lublin.pl
+8,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: ourworld.compuserve.com
+",ourworld.compuserve.com,com,com
+9,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.silesia.pik-net.pl
+",www.silesia.pik-net.pl,pl,pl
+10,TRUE,404,www.perfectnet.com,com,com
+11,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [193.133.97.7] Connection timed out after 10001 milliseconds
+",193.133.97.7,NA,NA
+12,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.rby.hk-r.se
+",www.rby.hk-r.se,se,se
+13,TRUE,404,www.zem.co.uk,uk,co.uk
+14,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.silesia.pik-net.pl
+",www.silesia.pik-net.pl,pl,pl
+15,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.dij.krakow.pl
+",www.dij.krakow.pl,pl,krakow.pl
+16,TRUE,404,194.181.124.1,NA,NA
+17,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [195.136.0.2] Connection timed out after 10001 milliseconds
+",195.136.0.2,NA,NA
+18,TRUE,200,www.vbo.net,net,net
+19,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+20,TRUE,404,www.man.poznan.pl,pl,poznan.pl
+21,TRUE,404,www.man.poznan.pl,pl,poznan.pl
+22,TRUE,200,www.psl.org.pl,pl,org.pl
+23,TRUE,200,www.qdnet.pl,pl,pl
+24,TRUE,404,www.hsn.com.pl,pl,com.pl
+25,TRUE,404,www.sejm.gov.pl,pl,gov.pl
+26,TRUE,200,www.polonianet.com,com,com
+27,TRUE,404,www.polish-bus.com,com,com
+28,TRUE,200,www.polishworld.com,com,com
+29,TRUE,404,homepage.interaccess.com,com,com
+30,TRUE,404,berniann.clever.net,net,net
+31,TRUE,404,pan.net,net,net
+32,TRUE,403,www.poland-embassy.org.uk,uk,org.uk
+33,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to info.fuw.edu.pl port 80: Brak trasy do hosta
+",info.fuw.edu.pl,pl,edu.pl
+34,TRUE,404,www.it.com.pl,pl,com.pl
+35,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: bull.mimuw.edu.pl
+",bull.mimuw.edu.pl,pl,edu.pl
+36,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.bci.krakow.pl] Connection timed out after 10001 milliseconds
+",www.bci.krakow.pl,pl,krakow.pl
+37,TRUE,404,www.it.com.pl,pl,com.pl
+38,TRUE,404,www.uidaho.edu,edu,edu
+39,TRUE,200,www.polishworld.com,com,com
+40,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to info.fuw.edu.pl port 80: Brak trasy do hosta
+",info.fuw.edu.pl,pl,edu.pl
+41,TRUE,404,www.nask.pl,pl,pl
+42,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+43,TRUE,200,www.silesia.com,com,com
+44,TRUE,404,hospex.icm.edu.pl,pl,edu.pl
+45,TRUE,404,www.sonik.com.pl,pl,com.pl
+46,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.wineasy.se] Connection timed out after 10001 milliseconds
+",www.wineasy.se,se,se
+47,TRUE,403,www.polska.net,net,net
+48,TRUE,404,www.lib.utexas.edu,edu,edu
+49,TRUE,404,www.lib.utexas.edu,edu,edu
+50,TRUE,404,www.lib.utexas.edu,edu,edu
+51,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+52,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.kki.krakow.pl] Connection timed out after 10000 milliseconds
+",www.kki.krakow.pl,pl,krakow.pl
+53,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.beskidy.pol.pl
+",www.beskidy.pol.pl,pl,pl
+54,TRUE,200,www.wonet.com.pl,pl,com.pl
+55,TRUE,404,www.petex.bielsko.pl,pl,pl
+56,TRUE,404,www.geocities.com,com,com
+57,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.gorp.com
+",www.gorp.com,com,com
+58,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: ciesin.ci.uw.edu.pl
+",ciesin.ci.uw.edu.pl,pl,edu.pl
+59,TRUE,404,kinga.cyf-kr.edu.pl,pl,edu.pl
+60,TRUE,404,hum.amu.edu.pl,pl,edu.pl
+61,TRUE,200,www.wonet.com.pl,pl,com.pl
+62,TRUE,200,www.cs.put.poznan.pl,pl,poznan.pl
+63,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+64,TRUE,200,hpov.waw.ids.edu.pl,pl,edu.pl
+65,TRUE,200,www.rec.hu,hu,hu
+66,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.solutions.mb.ca
+",www.solutions.mb.ca,ca,mb.ca
+67,TRUE,404,www.polishworld.com,com,com
+68,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.infobahn.com.au
+",www.infobahn.com.au,au,com.au
+69,TRUE,404,www.io.org,org,org
+70,TRUE,404,inglot.com,com,com
+71,TRUE,404,www.zem.co.uk,uk,co.uk
+72,TRUE,404,berniann.clever.net,net,net
+73,TRUE,404,berniann.clever.net,net,net
+74,TRUE,404,laserspark.anu.edu.au,au,edu.au
+75,TRUE,200,www.pc-notruf.de,de,de
+76,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.cyberdudle.net
+",www.cyberdudle.net,net,net
+77,TRUE,200,isisnet.com,com,com
+78,TRUE,404,www2.gol.com,com,com
+79,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: pacioli.ace.unsw.edu.au
+",pacioli.ace.unsw.edu.au,au,edu.au
+80,TRUE,404,www.mat.uni.torun.pl,pl,pl
+81,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: manta.univ.gda.pl
+",manta.univ.gda.pl,pl,gda.pl
+82,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): error:141A318A:SSL routines:tls_process_ske_dhe:dh key too small
+",www.ace.unsw.edu.au,au,edu.au
+83,TRUE,404,laserspark.anu.edu.au,au,edu.au
+84,TRUE,404,laserspark.anu.edu.au,au,edu.au
+85,TRUE,404,www.internet.gr,gr,gr
+86,TRUE,200,www.pc-notruf.de,de,de
+87,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to www.is.in-berlin.de port 80: Połączenie odrzucone
+",www.is.in-berlin.de,de,de
+88,TRUE,404,www2.gol.com,com,com
+89,TRUE,404,www.inglot.com,com,com
+90,TRUE,200,inglot.com,com,com
+91,TRUE,404,www.polishworld.com,com,com
+92,TRUE,404,www.augustana.edu,edu,edu
+93,TRUE,200,www.ultranet.com,com,com
+94,TRUE,404,berniann.clever.net,net,net
+95,TRUE,404,berniann.clever.net,net,net
+96,TRUE,200,www.polish.org,org,org
+97,TRUE,404,www.zem.co.uk,uk,co.uk
+98,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.silesia.pik-net.pl
+",www.silesia.pik-net.pl,pl,pl
+99,TRUE,404,www.po.opole.pl,pl,opole.pl
+100,TRUE,404,www.cuprum.com.pl,pl,com.pl
+101,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ath.bielsko.plreligie
+",kpbm.pb.bielsko.pl,pl,pl
+102,TRUE,404,www.man.poznan.pl,pl,poznan.pl
+103,TRUE,404,www.ici.net,net,net
+104,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to www.logon.bydgoszcz.pl port 80: Połączenie odrzucone
+",www.logon.bydgoszcz.pl,pl,bydgoszcz.pl
+105,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.users.sgi.net] Connection timed out after 10000 milliseconds
+",www.users.sgi.net,net,net
+106,TRUE,404,www.igc.apc.org,org,org
+107,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.cum.org
+",www.cum.org,org,org
+108,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.sopot-pl.net
+",www.sopot-pl.net,net,net
+109,TRUE,403,www.wtinet.com,com,com
+110,TRUE,404,www.mcs.net,net,net
+111,TRUE,404,www.the-wire.com,com,com
+112,TRUE,404,www.man.poznan.pl,pl,poznan.pl
+113,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Empty reply from server
+",www.intac.com,com,com
+114,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: iaipc80.kfk.de
+",iaipc80.kfk.de,de,de
+115,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: akson.sgh.waw.pl
+",akson.sgh.waw.pl,pl,waw.pl
+116,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: webmaster.vbe.com
+",webmaster.vbe.com,com,com
+117,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.eecs.uic.edu
+",www.eecs.uic.edu,edu,edu
+118,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.torun.pdi.net
+",www.torun.pdi.net,net,net
+119,TRUE,404,www-scf.usc.edu,edu,edu
+120,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: ourworld.compuserve.com
+",ourworld.compuserve.com,com,com
+121,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: supernova.uwindsor.ca
+",supernova.uwindsor.ca,ca,ca
+122,TRUE,404,www.concentric.net,net,net
+123,TRUE,404,www.slip.net,net,net
+124,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: akson.sgh.waw.pl
+",akson.sgh.waw.pl,pl,waw.pl
+125,TRUE,200,hpov.waw.ids.edu.pl,pl,edu.pl
+126,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: centralvalley.ny.frontiercomm.net
+",centralvalley.ny.frontiercomm.net,net,net
+127,TRUE,404,orion.it.luc.edu,edu,edu
+128,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.waw.pdi.net
+",www.waw.pdi.net,net,net
+129,TRUE,404,www.math.uni.wroc.pl,pl,wroc.pl
+130,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+131,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.wineasy.se] Connection timed out after 10000 milliseconds
+",www.wineasy.se,se,se
+132,TRUE,404,www.cs.tu-berlin.de,de,de
+133,TRUE,404,www.lrsm.upenn.edu,edu,edu
+134,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.lublin.tpsa.pl
+",www.lublin.tpsa.pl,pl,pl
+135,TRUE,404,www.man.katowice.pl,pl,katowice.pl
+136,TRUE,403,www.ibib.waw.pl,pl,waw.pl
+137,TRUE,404,www.efn.org,org,org
+138,TRUE,404,www.rpi.edu,edu,edu
+139,TRUE,404,www.it.com.pl,pl,com.pl
+140,TRUE,200,www.spd.louisville.edu,edu,edu
+141,TRUE,404,www.ece.ucsb.edu,edu,edu
+142,TRUE,404,www.con2.com,com,com
+143,TRUE,500,www.ia.pw.edu.pl,pl,edu.pl
+144,TRUE,404,berniann.clever.net,net,net
+145,TRUE,404,www.spots.ab.ca,ca,ab.ca
+146,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to info.fuw.edu.pl port 80: Brak trasy do hosta
+",info.fuw.edu.pl,pl,edu.pl
+147,TRUE,200,www.isisnet.com,com,com
+148,TRUE,404,berniann.clever.net,net,net
+149,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.silesia.pik-net.pl
+",www.silesia.pik-net.pl,pl,pl
+150,TRUE,200,www-personal.engin.umich.edu,edu,edu
+151,TRUE,404,www-personal.umich.edu,edu,edu
+152,TRUE,200,www.ultranet.com,com,com
+153,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ip.krakow.pl
+",www.ip.krakow.pl,pl,krakow.pl
+154,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [152.21.1.74:80] Connection timed out after 10001 milliseconds
+",152.21.1.74,NA,NA
+155,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.easynet.on.ca
+",www.easynet.on.ca,ca,on.ca
+156,TRUE,404,laserspark.anu.edu.au,au,edu.au
+157,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",snack.p.lodz.pl,pl,pl
+158,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: miso.wwa.com
+",miso.wwa.com,com,com
+159,TRUE,404,www.geocities.com,com,com
+160,TRUE,500,www.ia.pw.edu.pl,pl,edu.pl
+161,TRUE,200,www.uci.agh.edu.pl,pl,edu.pl
+162,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: rpinfo.its.rpi.edu
+",rpinfo.its.rpi.edu,edu,edu
+163,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: astro.princeton.edu
+",astro.princeton.edu,edu,edu
+164,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.dij.krakow.pl
+",www.dij.krakow.pl,pl,krakow.pl
+165,TRUE,404,www.monash.edu.au,au,edu.au
+166,TRUE,200,www.dml.georgetown.edu,edu,edu
+167,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.bci.krakow.pl] Connection timed out after 10001 milliseconds
+",www.bci.krakow.pl,pl,krakow.pl
+168,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: home.interstut.net
+",home.interstut.net,net,net
+169,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",icarus.uic.edu,edu,edu
+170,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ists.pwr.wroc.pl
+",www.ists.pwr.wroc.pl,pl,wroc.pl
+171,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: gramercy.ios.com
+",gramercy.ios.com,com,com
+172,TRUE,403,calum.uwaterloo.ca,ca,ca
+173,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: acs3.memphis.edu
+",acs3.memphis.edu,edu,edu
+174,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: watson.rz.uni-frankfurt.de
+",watson.rz.uni-frankfurt.de,de,de
+175,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: home.interstat.net
+",home.interstat.net,net,net
+176,TRUE,404,berniann.clever.net,net,net
+177,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: gramercy.ios.com
+",gramercy.ios.com,com,com
+178,TRUE,404,www.atm.com.pl,pl,com.pl
+179,TRUE,404,www.atm.com.pl,pl,com.pl
+180,TRUE,404,www.vol.it,it,it
+181,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: akson.sgh.waw.pl
+",akson.sgh.waw.pl,pl,waw.pl
+182,TRUE,404,www.atm.com.pl,pl,com.pl
+183,TRUE,404,www.atm.com.pl,pl,com.pl
+184,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+185,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.gumbeers.elka.pg.gda.pl
+",www.gumbeers.elka.pg.gda.pl,pl,gda.pl
+186,TRUE,404,www.it.com.pl,pl,com.pl
+187,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+188,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+189,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.optimus.poznan.pl
+",www.optimus.poznan.pl,pl,poznan.pl
+190,TRUE,404,www.quovadis.com,com,com
+191,TRUE,200,www.polonianet.com,com,com
+192,TRUE,404,www.contact.waw.pl,pl,waw.pl
+193,TRUE,404,www.pg.gda.pl,pl,gda.pl
+194,TRUE,404,www.poland-biz.net,net,net
+195,TRUE,404,berniann.clever.net,net,net
+196,TRUE,404,www-personal.engin.umich.edu,edu,edu
+197,TRUE,404,www.polishworld.com,com,com
+198,TRUE,404,www.spectra.net,net,net
+199,TRUE,404,www.perfectnet.com,com,com
+200,TRUE,200,www.dnai.com,com,com
+201,TRUE,404,www.zem.co.uk,uk,co.uk
+202,TRUE,404,www.zem.co.uk,uk,co.uk
+203,TRUE,404,www.io.org,org,org
+204,TRUE,200,www.polonianet.com,com,com
+205,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: valis.worldgate.com
+",valis.worldgate.com,com,com
+206,TRUE,404,www.wrn.org,org,org
+207,TRUE,200,www.radio.com.pl,pl,com.pl
+208,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: goblin.radio.com.pl
+",goblin.radio.com.pl,pl,com.pl
+209,TRUE,404,www.inet.com.pl,pl,com.pl
+210,TRUE,404,www.szczecin.pl,pl,szczecin.pl
+211,TRUE,404,www.uci.agh.edu.pl,pl,edu.pl
+212,TRUE,404,www.perfectnet.com,com,com
+213,TRUE,200,www.vbo.net,net,net
+214,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.bbcnc.org.uk
+",www.bbcnc.org.uk,uk,org.uk
+215,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: mateusz.logon.bydgoszcz.pl
+",mateusz.logon.bydgoszcz.pl,pl,bydgoszcz.pl
+216,TRUE,404,www.atm.com.pl,pl,com.pl
+217,TRUE,404,www.peryt.waw.pl,pl,waw.pl
+218,TRUE,404,www.atm.com.pl,pl,com.pl
+219,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+220,TRUE,404,www.atm.com.pl,pl,com.pl
+221,TRUE,403,www.wtinet.com,com,com
+222,TRUE,403,www.wtinet.com,com,com
+223,TRUE,404,www.poland-biz.net,net,net
+224,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.dij.krakow.pl
+",www.dij.krakow.pl,pl,krakow.pl
+225,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.bci.krakow.pl] Connection timed out after 10001 milliseconds
+",www.bci.krakow.pl,pl,krakow.pl
+226,TRUE,200,www.gazetapolska.pl,pl,pl
+227,TRUE,200,www.ternet.pl,pl,pl
+228,TRUE,404,www.poland-biz.net,net,net
+229,TRUE,404,www.lublin.pl,pl,lublin.pl
+230,TRUE,200,www.ternet.pl,pl,pl
+231,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pik-net.gliwice.pl
+",www.pik-net.gliwice.pl,pl,gliwice.pl
+232,TRUE,404,hektor.umcs.lublin.pl,pl,lublin.pl
+233,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+234,TRUE,404,www.vicnet.net.au,au,net.au
+235,TRUE,404,laserspark.anu.edu.au,au,edu.au
+236,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ath.bielsko.plbielsko
+",kpbm.pb.bielsko.pl,pl,pl
+237,TRUE,200,www.ata.com.pl,pl,com.pl
+238,TRUE,200,www.studio-net.com.pl,pl,com.pl
+239,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.dtm.lublin.pl
+",www.dtm.lublin.pl,pl,lublin.pl
+240,TRUE,200,www.gdansk.gda.pl,pl,gda.pl
+241,TRUE,404,panda.bg.univ.gda.pl,pl,gda.pl
+242,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.gda.cnt.pl
+",www.gda.cnt.pl,pl,pl
+243,TRUE,404,sabat.tu.kielce.pl,pl,pl
+244,TRUE,200,www.kielce.uw.gov.pl,pl,uw.gov.pl
+245,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.cityscape.co.uk] Failed to connect to www.cityscape.co.uk port 80: Przekroczony czas oczekiwania na połączenie
+",www.cityscape.co.uk,uk,co.uk
+246,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+247,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www1.mhv.net
+",www1.mhv.net,net,net
+248,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+249,TRUE,404,www.uj.edu.pl,pl,edu.pl
+250,TRUE,404,www.uj.edu.pl,pl,edu.pl
+251,TRUE,404,kinga.cyf-kr.edu.pl,pl,edu.pl
+252,TRUE,200,www.art.olsztyn.pl,pl,olsztyn.pl
+253,TRUE,404,www.sonik.com.pl,pl,com.pl
+254,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.wsi.opole.pl
+",www.wsi.opole.pl,pl,opole.pl
+255,TRUE,404,www.amu.edu.pl,pl,edu.pl
+256,TRUE,200,www.cs.put.poznan.pl,pl,poznan.pl
+257,TRUE,404,hum.amu.edu.pl,pl,edu.pl
+258,TRUE,403,www.umt.tarnow.ipl.net,net,net
+259,TRUE,200,www.man.torun.pl,pl,pl
+260,TRUE,404,www.geocities.com,com,com
+261,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.netgate.plumss
+",www.netgate.com.pl,pl,com.pl
+262,TRUE,404,sunsite.icm.edu.pl,pl,edu.pl
+263,TRUE,404,www.uj.edu.pl,pl,edu.pl
+264,TRUE,404,www.comnet.pl,pl,pl
+265,TRUE,404,www.perfekt.net,net,net
+266,TRUE,404,www.connactivity.com,com,com
+267,TRUE,200,www.autonet.com.pl,pl,com.pl
+268,TRUE,404,www.geocities.com,com,com
+269,TRUE,404,www.singnet.com.sg,sg,com.sg
+270,TRUE,404,www.webcom.com,com,com
+271,TRUE,404,hum.amu.edu.pl,pl,edu.pl
+272,TRUE,404,www.inria.fr,fr,fr
+273,TRUE,404,www.poland.net,net,net
+274,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+275,TRUE,404,www.ict.pwr.wroc.pl,pl,wroc.pl
+276,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+277,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pdi.lodz.pl
+",www.pdi.lodz.pl,pl,pl
+278,TRUE,200,www.traveldiscounts.com,com,com
+279,TRUE,200,www.hacon.de,de,de
+280,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: rzstudl.rz.uni-karlsruhe.de
+",rzstudl.rz.uni-karlsruhe.de,de,de
+281,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: akson.sgh.waw.pl
+",akson.sgh.waw.pl,pl,waw.pl
+282,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.solutions.mb.ca
+",www.solutions.mb.ca,ca,mb.ca
+283,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: akson.sgh.waw.pl
+",akson.sgh.waw.pl,pl,waw.pl
+284,TRUE,403,www.travel.com.pl,pl,com.pl
+285,TRUE,200,www.ternet.pl,pl,pl
+286,TRUE,404,www.cs.put.poznan.pl,pl,poznan.pl
+287,TRUE,404,www.uci.agh.edu.pl,pl,edu.pl
+288,TRUE,404,www.uci.agh.edu.pl,pl,edu.pl
+289,TRUE,404,www.pg.gda.pl,pl,gda.pl
+290,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+291,TRUE,404,www.iem.pw.edu.pl,pl,edu.pl
+292,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: pwa.acusd.edu
+",pwa.acusd.edu,edu,edu
+293,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",www.altkom.com.pl,pl,com.pl
+294,TRUE,200,www.grot.com.pl,pl,com.pl
+295,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.tg.com.pl
+",www.tg.com.pl,pl,com.pl
+296,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+297,TRUE,404,www.naples.net,net,net
+298,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.tezcat.com] Resolving timed out after 10000 milliseconds
+",www.tezcat.com,com,com
+299,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: termit.art.olsztyn.pl
+",termit.art.olsztyn.pl,pl,olsztyn.pl
+300,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.compart.lodz.pl
+",www.compart.lodz.pl,pl,pl
+301,TRUE,404,www.gapp.pl,pl,pl
+302,TRUE,404,www.traveller.com,com,com
+303,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.newc.com
+",www.newc.com,com,com
+304,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.clark.net
+",www.clark.net,net,net
+305,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to info.fuw.edu.pl port 80: Brak trasy do hosta
+",info.fuw.edu.pl,pl,edu.pl
+306,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ds2.pg.gda.pl
+",www.ds2.pg.gda.pl,pl,gda.pl
+307,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+308,TRUE,200,www.amg.gda.pl,pl,gda.pl
+309,TRUE,404,www.poland.net,net,net
+310,TRUE,200,www.czasnaeb.com.pl,pl,com.pl
+311,TRUE,200,www.grot.com.pl,pl,com.pl
+312,TRUE,404,student.uci.agh.edu.pl,pl,edu.pl
+313,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: akson.sgh.waw.pl
+",akson.sgh.waw.pl,pl,waw.pl
+314,TRUE,404,www.perfekt.net,net,net
+315,TRUE,404,www.poland-biz.net,net,net
+316,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+317,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+318,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10000 milliseconds
+",www.pol.pl,pl,pl
+319,TRUE,404,www.comnet.pl,pl,pl
+320,TRUE,200,www.polonianet.com,com,com
+321,TRUE,404,www.comnet.pl,pl,pl
+322,TRUE,404,hektor.umcs.lublin.pl,pl,lublin.pl
+323,TRUE,404,hektor.umcs.lublin.pl,pl,lublin.pl
+324,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: sl.cxwms.ac.uk
+",sl.cxwms.ac.uk,uk,ac.uk
+325,TRUE,404,www.man.katowice.pl,pl,katowice.pl
+326,TRUE,404,www.cc.uni.torun.pl,pl,pl
+327,TRUE,404,galen.imw.lublin.pl,pl,lublin.pl
+328,TRUE,404,student.uci.agh.edu.pl,pl,edu.pl
+329,TRUE,200,www.tvp.com.pl,pl,com.pl
+330,TRUE,200,www.tvp.com.pl,pl,com.pl
+331,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.wow.pl] Connection timed out after 10001 milliseconds
+",www.wow.pl,pl,pl
+332,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.loiv.torun.pl] Connection timed out after 10001 milliseconds
+",www.loiv.torun.pl,pl,pl
+333,TRUE,404,ccat.sas.upenn.edu,edu,edu
+334,TRUE,200,www.ceo.cz,cz,cz
+335,TRUE,200,www.omri.cz,cz,cz
+336,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.itaiep.doc.gov
+",www.itaiep.doc.gov,gov,gov
+337,TRUE,404,www.polishworld.com,com,com
+338,TRUE,200,ids5.idsonline.com,com,com
+339,TRUE,404,www.atm.com.pl,pl,com.pl
+340,TRUE,404,www.atm.com.pl,pl,com.pl
+341,TRUE,404,www.ipipan.waw.pl,pl,waw.pl
+342,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.sprint.com.pl] Connection timed out after 10000 milliseconds
+",www.sprint.com.pl,pl,com.pl
+343,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: pathfinder.com
+",@7faqqckdlgeaqb6u,NA,NA
+344,TRUE,404,www.cts.com,com,com
+345,TRUE,404,www.ii.uj.edu.pl,pl,edu.pl
+346,TRUE,404,www.ubique.com.pl,pl,com.pl
+347,TRUE,404,www.polishworld.com,com,com
+348,TRUE,404,berniann.clever.net,net,net
+349,TRUE,404,berniann.clever.net,net,net
+350,TRUE,200,www.pol-net.com,com,com
+351,TRUE,404,www.execulink.com,com,com
+352,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: crux3.cit.cornell.edu
+",crux3.cit.cornell.edu,edu,edu
+353,TRUE,404,www.polishworld.com,com,com
+354,TRUE,200,isisnet.com,com,com
+355,TRUE,404,berniann.clever.net,net,net
+356,TRUE,200,paceasternmass.org,org,org
+357,TRUE,404,berniann.clever.net,net,net
+358,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [walden.mo.net] Connection timed out after 10001 milliseconds
+",walden.mo.net,net,net
+359,TRUE,403,www.ibib.waw.pl,pl,waw.pl
+360,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: beauty.ternet.pl
+",beauty.ternet.pl,pl,pl
+361,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: beauty.ternet.pl
+",beauty.ternet.pl,pl,pl
+362,TRUE,403,www.ibib.waw.pl,pl,waw.pl
+363,TRUE,404,www.inwar.com.pl,pl,com.pl
+364,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: crux3.cit.cornell.edu
+",crux3.cit.cornell.edu,edu,edu
+365,TRUE,200,isisnet.com,com,com
+366,TRUE,404,www.vicnet.net.au,au,net.au
+367,TRUE,200,www.cyf-kr.edu.pl,pl,edu.pl
+368,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: ceenet.nask.org.pl
+",ceenet.nask.org.pl,pl,org.pl
+369,TRUE,404,www.rubikon.net.pl,pl,net.pl
+370,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: cimosa.cnt.pl
+",cimosa.cnt.pl,pl,pl
+371,TRUE,404,www.comnet.pl,pl,pl
+372,TRUE,200,www.nask.pl,pl,pl
+373,TRUE,403,www.psi.org.pl,pl,org.pl
+374,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.kbn.gov.pl
+",www.kbn.gov.pl,pl,gov.pl
+375,TRUE,404,www.polishworld.com,com,com
+376,TRUE,404,www.zem.co.uk,uk,co.uk
+377,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.optimus.poznan.pl
+",www.optimus.poznan.pl,pl,poznan.pl
+378,TRUE,404,www.cc.uni.torun.pl,pl,pl
+379,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.optimus.poznan.pl
+",www.optimus.poznan.pl,pl,poznan.pl
+380,TRUE,404,www.afcnet.com,com,com
+381,TRUE,404,www.nahb.com,com,com
+382,TRUE,200,www.ultranet.com,com,com
+383,TRUE,404,www.inglot.com,com,com
+384,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.bot.astrouw.edu.pl
+",www.bot.astrouw.edu.pl,pl,edu.pl
+385,TRUE,404,www.rri.org,org,org
+386,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.cedar.univie.ac.at
+",www.cedar.univie.ac.at,at,ac.at
+387,TRUE,404,www.rec.hu,hu,hu
+388,TRUE,404,www.igc.apc.org,org,org
+389,TRUE,404,sunsite.icm.edu.pl,pl,edu.pl
+390,TRUE,404,www.it.com.pl,pl,com.pl
+391,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: wwwl.mhv.net
+",wwwl.mhv.net,net,net
+392,TRUE,200,galaxy.uci.agh.edu.pl,pl,edu.pl
+393,TRUE,404,sunsite.icm.edu.pl,pl,edu.pl
+394,TRUE,404,www.zem.co.uk,uk,co.uk
+395,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to www.octacon.co.uk port 80: Połączenie odrzucone
+",www.octacon.co.uk,uk,co.uk
+396,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Recv failure: Przekroczony czas oczekiwania na połączenie
+",www.ic.gov,gov,gov
+397,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+398,TRUE,200,www.explore-poland.pl,pl,pl
+399,TRUE,404,www.kasprzyk.demon.co.uk,uk,co.uk
+400,TRUE,404,www.atm.com.pl,pl,com.pl
+401,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: poniecki.berkeley.edu
+",poniecki.berkeley.edu,edu,edu
+402,TRUE,404,www.poland.net,net,net
+403,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [206.149.251.101] Connection timed out after 10001 milliseconds
+",206.149.251.101,NA,NA
+404,TRUE,403,www.wtinet.com,com,com
+405,TRUE,200,pan.net,net,net
+406,TRUE,200,www.infocom.net,net,net
+407,TRUE,404,berniann.clever.net,net,net
+408,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pdi.lodz.pl
+",www.pdi.lodz.pl,pl,pl
+409,TRUE,404,www.vicnet.net.au,au,net.au
+410,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: aserspark.anu.edu.au
+",aserspark.anu.edu.au,au,edu.au
+411,TRUE,403,www.pl-info.de,de,de
+412,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: valis.worldgate.edmonton.ab.ca
+",valis.worldgate.edmonton.ab.ca,ca,ab.ca
+413,TRUE,200,www.polonianet.com,com,com
+414,TRUE,404,www.vol.it,it,it
+415,TRUE,404,orion.it.luc.edu,edu,edu
+416,TRUE,404,www.mdarchives.state.md.us,us,md.us
+417,TRUE,200,www.sejm.gov.pl,pl,gov.pl
+418,TRUE,200,www.sejm.gov.pl,pl,gov.pl
+419,TRUE,200,www.senat.gov.pl,pl,gov.pl
+420,TRUE,404,www.pocketpress.com,com,com
+421,TRUE,404,www.pocketpress.com,com,com
+422,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+423,TRUE,200,www.it.com.pl,pl,com.pl
+424,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.brh-gov-pl.or.at
+",www.brh-gov-pl.or.at,at,or.at
+425,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.xxlink.nl] Connection timed out after 10001 milliseconds
+",www.xxlink.nl,nl,nl
+426,TRUE,404,www-personal.engin.umich.edu,edu,edu
+427,TRUE,404,www.ibspan.waw.pl,pl,waw.pl
+428,TRUE,404,www-personal.engin.umich.edu,edu,edu
+429,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+430,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+431,TRUE,404,www.cs.tu-berlin.de,de,de
+432,TRUE,200,www.medianet.com.pl,pl,com.pl
+433,TRUE,404,www2.netdoor.com,com,com
+434,TRUE,404,www.the-wire.com,com,com
+435,TRUE,404,www.wi2.uni-erlangen.de,de,de
+436,TRUE,404,www.ubique.com.pl,pl,com.pl
+437,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: aurora.put.poznan.pl
+",aurora.put.poznan.pl,pl,poznan.pl
+438,TRUE,200,www.medianet.com.pl,pl,com.pl
+439,TRUE,200,www.ternet.pl,pl,pl
+440,TRUE,404,galaxy.uci.agh.edu.pl,pl,edu.pl
+441,TRUE,404,panda.bg.univ.gda.pl,pl,gda.pl
+442,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: venus.ci.uw.edu.pl
+",venus.ci.uw.edu.pl,pl,edu.pl
+443,TRUE,200,www.grot.com.pl,pl,com.pl
+444,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.inan.lodz.pl
+",www.inan.lodz.pl,pl,pl
+445,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: la.ists.pwr.wroc.pl
+",la.ists.pwr.wroc.pl,pl,wroc.pl
+446,TRUE,406,korona.com,com,com
+447,TRUE,200,vlo.waw.ids.edu.pl,pl,edu.pl
+448,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: dmiwww.cs.tut.fi
+",dmiwww.cs.tut.fi,fi,fi
+449,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: tempus.ii.uni.wroc.pl
+",tempus.ii.uni.wroc.pl,pl,wroc.pl
+450,TRUE,200,vlo.waw.ids.edu.pl,pl,edu.pl
+451,TRUE,404,www.uwrf.edu,edu,edu
+452,TRUE,404,www.elka.pw.edu.pl,pl,edu.pl
+453,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+454,TRUE,404,galaxy.uci.agh.edu.pl,pl,edu.pl
+455,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: awf.wroc.pl~romek
+",www.awf.wroc.pl,pl,wroc.pl
+456,TRUE,404,www.uci.agh.edu.pl,pl,edu.pl
+457,TRUE,404,zls.mimuw.edu.pl,pl,edu.pl
+458,TRUE,404,www.lodz.pl,pl,pl
+459,TRUE,404,www.uci.agh.edu.pl,pl,edu.pl
+460,TRUE,404,www.uci.agh.edu.pl,pl,edu.pl
+461,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+462,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+463,TRUE,404,panda.bg.univ.gda.pl,pl,gda.pl
+464,TRUE,404,www.icactive.com,com,com
+465,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: alpha.solutions.net
+",alpha.solutions.net,net,net
+466,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.solutions.mb.ca
+",www.solutions.mb.ca,ca,mb.ca
+467,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.hsy.com] Resolving timed out after 10000 milliseconds
+",www.hsy.com,com,com
+468,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: poppy.kaist.ac.kr
+",poppy.kaist.ac.kr,kr,ac.kr
+469,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.solutions.mb.ca
+",www.solutions.mb.ca,ca,mb.ca
+470,TRUE,200,www.travlang.com,com,com
+471,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [walden.mo.net:80] Connection timed out after 10000 milliseconds
+",walden.mo.net,net,net
+472,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+473,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.netgate.pldana
+",www.netgate.com.pl,pl,com.pl
+474,TRUE,200,www.infocom.net,net,net
+475,TRUE,200,www.wonet.com.pl,pl,com.pl
+476,TRUE,200,www.czasnaeb.com.pl,pl,com.pl
+477,TRUE,403,www.aob.org,org,org
+478,TRUE,404,sunsite.icm.edu.pl,pl,edu.pl
+479,TRUE,404,www.uj.edu.pl,pl,edu.pl
+480,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: sun1000.ci.pwr.wroc.pl
+",sun1000.ci.pwr.wroc.pl,pl,wroc.pl
+481,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ug.kobierzyce.pl
+",www.ug.kobierzyce.pl,pl,kobierzyce.pl
+482,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",www.cpu-zeto.com.pl,pl,com.pl
+483,TRUE,200,www.zgora.pl,pl,zgora.pl
+484,TRUE,200,www.zeto-zg.perytnet.pl,pl,pl
+485,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: bitbank.petex.rzeszow.pl
+",bitbank.petex.rzeszow.pl,pl,rzeszow.pl
+486,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to info.fuw.edu.pl port 80: Brak trasy do hosta
+",info.fuw.edu.pl,pl,edu.pl
+487,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to info.fuw.edu.pl port 80: Brak trasy do hosta
+",info.fuw.edu.pl,pl,edu.pl
+488,TRUE,404,www.szczecin.pl,pl,szczecin.pl
+489,TRUE,404,www.inet.com.pl,pl,com.pl
+490,TRUE,404,www.szczecin.pl,pl,szczecin.pl
+491,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+492,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+493,TRUE,200,www.man.lodz.pl,pl,pl
+494,TRUE,200,www.uml.lodz.pl,pl,pl
+495,TRUE,200,www.lublin.pl,pl,lublin.pl
+496,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.dtm.lublin.pl
+",www.dtm.lublin.pl,pl,lublin.pl
+497,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+498,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.sopot-pl.net
+",www.sopot-pl.net,net,net
+499,TRUE,200,www.simet.com.pl,pl,com.pl
+500,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.dij.krakow.pl
+",www.dij.krakow.pl,pl,krakow.pl
+501,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polsl.gliwice.pl
+",www.polsl.gliwice.pl,pl,gliwice.pl
+502,TRUE,200,www.ae.katowice.pl,pl,katowice.pl
+503,TRUE,404,www.man.katowice.pl,pl,katowice.pl
+504,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.silesia.ternet.pl
+",www.silesia.ternet.pl,pl,pl
+505,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.silesia.pik-net.pl
+",www.silesia.pik-net.pl,pl,pl
+506,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: valis.worldgate.com
+",valis.worldgate.com,com,com
+507,TRUE,200,www.poloniaweb.com,com,com
+508,TRUE,200,www.polonianet.com,com,com
+509,TRUE,404,www.brittany-net.com,com,com
+510,TRUE,404,www.uw.bialystok.pl,pl,bialystok.pl
+511,TRUE,404,www.nie.com.pl,pl,com.pl
+512,TRUE,200,www.it.com.pl,pl,com.pl
+513,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: egon.netkat.com.pl
+",egon.netkat.com.pl,pl,com.pl
+514,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: k-vector.chem.washington.edu
+",k-vector.chem.washington.edu,edu,edu
+515,TRUE,200,www.ternet.pl,pl,pl
+516,TRUE,404,www.wips.net,net,net
+517,TRUE,404,www.perytnet.pl,pl,pl
+518,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10002 milliseconds
+",www.pol.pl,pl,pl
+519,TRUE,200,www.idea.com.pl,pl,com.pl
+520,TRUE,200,www.polonianet.com,com,com
+521,TRUE,404,www.it.com.pl,pl,com.pl
+522,TRUE,404,www.agsmedia.com.pl,pl,com.pl
+523,TRUE,404,www.agsmedia.com.pl,pl,com.pl
+524,TRUE,404,www.tvp.com.pl,pl,com.pl
+525,TRUE,200,www.tvp.com.pl,pl,com.pl
+526,TRUE,404,www.agsmedia.com.pl,pl,com.pl
+527,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.kki.krakow.pl] Connection timed out after 10001 milliseconds
+",www.kki.krakow.pl,pl,krakow.pl
+528,TRUE,400,ftn.net,net,net
+529,TRUE,503,pc-raf.lupus.waw.pl,pl,waw.pl
+530,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.gielda-sam.slupsk.pl
+",www.gielda-sam.slupsk.pl,pl,slupsk.pl
+531,TRUE,404,www.atm.com.pl,pl,com.pl
+532,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+533,TRUE,404,www.atm.com.pl,pl,com.pl
+534,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.bielbit.bielsko.pl
+",www.bielbit.bielsko.pl,pl,pl
+535,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+536,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pik-net.gliwice.pl
+",www.pik-net.gliwice.pl,pl,gliwice.pl
+537,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [olo.sprint.com.pl] Connection timed out after 10001 milliseconds
+",olo.sprint.com.pl,pl,com.pl
+538,TRUE,200,www.radio.opole.pl,pl,opole.pl
+539,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: pro.logonet.com.pl
+",pro.logonet.com.pl,pl,com.pl
+540,TRUE,404,www.poland-biz.net,net,net
+541,TRUE,200,www.rmf.pl,pl,pl
+542,TRUE,404,www.inet.com.pl,pl,com.pl
+543,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pik-net.gliwice.pl
+",www.pik-net.gliwice.pl,pl,gliwice.pl
+544,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.optimus.poznan.pl
+",www.optimus.poznan.pl,pl,poznan.pl
+545,TRUE,404,www.atm.com.pl,pl,com.pl
+546,TRUE,404,www.atm.com.pl,pl,com.pl
+547,TRUE,404,www.atm.com.pl,pl,com.pl
+548,TRUE,404,www.atm.com.pl,pl,com.pl
+549,TRUE,404,www.atm.com.pl,pl,com.pl
+550,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: supernova.uwindsor.ca
+",supernova.uwindsor.ca,ca,ca
+551,TRUE,200,www.icacomp.com,com,com
+552,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: valis.worldgate.edmonton.ab.ca
+",valis.worldgate.edmonton.ab.ca,ca,ab.ca
+553,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: valis.worldgate.edmonton.ab.ca
+",valis.worldgate.edmonton.ab.ca,ca,ab.ca
+554,TRUE,404,www.interlog.com,com,com
+555,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.idgonline.no
+",www.idgonline.no,no,no
+556,TRUE,200,www.vbo.net,net,net
+557,TRUE,404,zls.mimuw.edu.pl,pl,edu.pl
+558,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.wlkp.ternet.pl
+",www.wlkp.ternet.pl,pl,pl
+559,TRUE,404,www.it.com.pl,pl,com.pl
+560,TRUE,200,www.vbo.net,net,net
+561,TRUE,404,www.atm.com.pl,pl,com.pl
+562,TRUE,200,www.polishworld.com,com,com
+563,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: digest.is.com.pl
+",digest.is.com.pl,pl,com.pl
+564,TRUE,200,hpov.waw.ids.edu.pl,pl,edu.pl
+565,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.helion.com.pl] Connection timed out after 10001 milliseconds
+",www.helion.com.pl,pl,com.pl
+566,TRUE,404,www.it.com.pl,pl,com.pl
+567,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+568,TRUE,404,www.atm.com.pl,pl,com.pl
+569,TRUE,200,www.cyber.com.pl,pl,com.pl
+570,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+571,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.tg.com.pl
+",www.tg.com.pl,pl,com.pl
+572,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to info.fuw.edu.pl port 80: Brak trasy do hosta
+",info.fuw.edu.pl,pl,edu.pl
+573,TRUE,200,www.gazeta.pl,pl,pl
+574,TRUE,404,www.atm.com.pl,pl,com.pl
+575,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+576,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+577,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.slowoludu.com.pl] Connection timed out after 10001 milliseconds
+",www.slowoludu.com.pl,pl,com.pl
+578,TRUE,404,www.hsn.com.pl,pl,com.pl
+579,TRUE,404,www.peryt.waw.pl,pl,waw.pl
+580,TRUE,404,www.atm.com.pl,pl,com.pl
+581,TRUE,404,www.atm.com.pl,pl,com.pl
+582,TRUE,200,www.media.com.pl,pl,com.pl
+583,TRUE,404,www.hsn.com.pl,pl,com.pl
+584,TRUE,200,www.eps.hu,hu,hu
+585,TRUE,404,www.contact.waw.pl,pl,waw.pl
+586,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10000 milliseconds
+",www.pol.pl,pl,pl
+587,TRUE,200,www.tvp.com.pl,pl,com.pl
+588,TRUE,403,www.pocket.com.pl,pl,com.pl
+589,TRUE,404,www.atm.com.pl,pl,com.pl
+590,TRUE,404,www.atm.com.pl,pl,com.pl
+591,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pap.waw.pl
+",www.pap.waw.pl,pl,waw.pl
+592,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [gopher.hivnet.org:70] Connection timed out after 10000 milliseconds
+",gopher.hivnet.org,org,org
+593,TRUE,403,www.pocket.com.pl,pl,com.pl
+594,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to www.helion.com.pl port 80: Brak trasy do hosta
+",www.helion.com.pl,pl,com.pl
+595,TRUE,404,www.petex.bielsko.pl,pl,pl
+596,TRUE,404,www.petex.bielsko.pl,pl,pl
+597,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: artexpublish.com
+",artexpublish.com,com,com
+598,TRUE,404,sunsite.unc.edu,edu,edu
+599,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.iatech.com'
+",www.iatech.com,com,com
+600,TRUE,200,isisnet.com,com,com
+601,TRUE,403,www.cyf-kr.edu.pl,pl,edu.pl
+602,TRUE,404,www.mat.uni.torun.pl,pl,pl
+603,TRUE,404,www.vicnet.net.au,au,net.au
+604,TRUE,404,laserspark.anu.edu.au,au,edu.au
+605,TRUE,404,soros.org,org,org
+606,TRUE,404,www-personal.engin.umich.edu,edu,edu
+607,TRUE,404,www.polishworld.com,com,com
+608,TRUE,404,www.poland.net,net,net
+609,TRUE,200,www.vbo.net,net,net
+610,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [werple.mira.net.au] Resolving timed out after 10000 milliseconds
+",werple.mira.net.au,au,net.au
+611,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: apollo.lpg.fi
+",apollo.lpg.fi,fi,fi
+612,TRUE,404,www.poland.net,net,net
+613,TRUE,200,isisnet.com,com,com
+614,TRUE,404,sunsite.icm.edu.pl,pl,edu.pl
+615,TRUE,404,www.libertynet.org,org,org
+616,TRUE,200,www.msu.edu.tr,tr,edu.tr
+617,TRUE,404,www.usc.edu,edu,edu
+618,TRUE,404,www.tvp.com.pl,pl,com.pl
+619,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.cto.us.edu.pl] Connection timed out after 10001 milliseconds
+",www.cto.us.edu.pl,pl,edu.pl
+620,TRUE,404,www.ii.uj.edu.pl,pl,edu.pl
+621,TRUE,404,www.lib.berkeley.edu,edu,edu
+622,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: lark.cc.ukans.edu
+",lark.cc.ukans.edu,edu,edu
+623,TRUE,404,www-personal.engin.umich.edu,edu,edu
+624,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): error:1414D172:SSL routines:tls12_check_peer_sigalg:wrong signature type
+",www.ire.pw.edu.pl,pl,edu.pl
+625,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: upus.northern.edu
+",upus.northern.edu,edu,edu
+626,TRUE,404,www.ddg.com.pl,pl,com.pl
+627,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.cto.us.edu.pl] Connection timed out after 10000 milliseconds
+",www.cto.us.edu.pl,pl,edu.pl
+628,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to arrow.uci.agh.edu.pl port 80: Połączenie odrzucone
+",arrow.uci.agh.edu.pl,pl,edu.pl
+629,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.optimus.wroc.pl
+",www.optimus.wroc.pl,pl,wroc.pl
+630,TRUE,200,www.uw.bialystok.pl,pl,bialystok.pl
+631,TRUE,404,www.ict.pwr.wroc.pl,pl,wroc.pl
+632,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: interkom.magnum.lodz.pl
+",interkom.magnum.lodz.pl,pl,pl
+633,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): error:1414D172:SSL routines:tls12_check_peer_sigalg:wrong signature type
+",www.ire.pw.edu.pl,pl,edu.pl
+634,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: village.ios.com
+",village.ios.com,com,com
+635,TRUE,404,www-personal.engin.umich.edu,edu,edu
+636,TRUE,404,www.clarityconnect.com,com,com
+637,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ccn.cs.dal.ca
+",www.ccn.cs.dal.ca,ca,ca
+638,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ccn.cs.dal.ca
+",www.ccn.cs.dal.ca,ca,ca
+639,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.ccn.cs.dal.ca
+",www.ccn.cs.dal.ca,ca,ca
+640,TRUE,404,laserspark.anu.edu.au,au,edu.au
+641,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",www.execpc.com,com,com
+642,TRUE,404,www.webmedia.com.pl,pl,com.pl
+643,TRUE,404,www.geocities.com,com,com
+644,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to info.fuw.edu.pl port 80: Brak trasy do hosta
+",info.fuw.edu.pl,pl,edu.pl
+645,TRUE,404,www-personal.engin.umich.edu,edu,edu
+646,TRUE,404,www.perfectnet.com,com,com
+647,TRUE,200,www.isisnet.com,com,com
+648,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [ftp.fuw.edu.pl] Connection timed out after 10000 milliseconds
+",ftp.fuw.edu.pl,pl,edu.pl
+649,TRUE,200,www.isisnet.com,com,com
+650,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pitt.edu:81] Connection timed out after 10001 milliseconds
+",www.pitt.edu,edu,edu
+651,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pitt.edu:81] Connection timed out after 10001 milliseconds
+",www.pitt.edu,edu,edu
+652,TRUE,404,www.pitt.edu,edu,edu
+653,TRUE,404,www.contact.waw.pl,pl,waw.pl
+654,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+655,TRUE,404,www.ict.pwr.wroc.pl,pl,wroc.pl
+656,TRUE,200,mars.odyssee.net,net,net
+657,TRUE,404,www.tvp.com.pl,pl,com.pl
+658,TRUE,404,www.tvp.com.pl,pl,com.pl
+659,TRUE,200,www.pk.edu.pl,pl,edu.pl
+660,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.waw.pdi.net
+",www.waw.pdi.net,net,net
+661,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pdi.net
+",www.pdi.net,net,net
+662,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.cto.us.edu.pl] Connection timed out after 10001 milliseconds
+",www.cto.us.edu.pl,pl,edu.pl
+663,TRUE,200,www.filus.edu.pl,pl,edu.pl
+664,TRUE,200,www.univ.gda.pl,pl,gda.pl
+665,TRUE,200,www.uni.lodz.pl,pl,pl
+666,TRUE,200,www.ii.uni.wroc.pl,pl,wroc.pl
+667,TRUE,200,www.uw.edu.pl,pl,edu.pl
+668,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.wsi.zgora.pl
+",www.wsi.zgora.pl,pl,zgora.pl
+669,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: zi.osa.torun.pl
+",zi.osa.torun.pl,pl,pl
+670,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.wsp.krakow.pl'
+",www.wsp.krakow.pl,pl,krakow.pl
+671,TRUE,200,www.tl.krakow.pl,pl,krakow.pl
+672,TRUE,200,www.pwr.wroc.pl,pl,wroc.pl
+673,TRUE,200,www.efp.poznan.pl,pl,poznan.pl
+674,TRUE,200,www.kul.lublin.pl,pl,lublin.pl
+675,TRUE,404,www.pg.gda.pl,pl,gda.pl
+676,TRUE,200,sabat.tu.kielce.pl,pl,pl
+677,TRUE,200,www.pk.edu.pl,pl,edu.pl
+678,TRUE,200,www.p.lodz.pl,pl,pl
+679,TRUE,200,kpbm.pb.bielsko.pl,pl,pl
+680,TRUE,200,www.pol.lublin.pl,pl,lublin.pl
+681,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: aurora.put.poznan.pl
+",aurora.put.poznan.pl,pl,poznan.pl
+682,TRUE,200,www.gliwice.edu.pl,pl,edu.pl
+683,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [157.158.40.47] Connection timed out after 10000 milliseconds
+",157.158.40.47,NA,NA
+684,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.sopot-pl.net
+",www.sopot-pl.net,net,net
+685,TRUE,200,www.zse.bydgoszcz.pl,pl,bydgoszcz.pl
+686,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: linstar.zsz2.starachowice.pl
+",linstar.zsz2.starachowice.pl,pl,starachowice.pl
+687,TRUE,404,www.infophil.com,com,com
+688,TRUE,200,www.ae.katowice.pl,pl,katowice.pl
+689,TRUE,200,www.ae.krakow.pl,pl,krakow.pl
+690,TRUE,"simpleWarning in strsplit(rawToChar(raw), ""\r?\n""): niepoprawny łańcuch wejściowy 1 w lokalizacji
+",www.ae.poznan.pl,pl,poznan.pl
+691,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+692,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.americad.com
+",www.americad.com,com,com
+693,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.zalbix.wroc.pl
+",www.zalbix.wroc.pl,pl,wroc.pl
+694,TRUE,404,www.it.com.pl,pl,com.pl
+695,TRUE,404,www.mgl.ca,ca,ca
+696,TRUE,200,www.umn.edu,edu,edu
+697,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.inform.umd.edu:8080] Connection timed out after 10001 milliseconds
+",www.inform.umd.edu,edu,edu
+698,TRUE,404,wings.buffalo.edu,edu,edu
+699,TRUE,404,www.rochester.edu,edu,edu
+700,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Maximum (10) redirects followed
+",www.umich.edu,edu,edu
+701,TRUE,404,www.shu.edu,edu,edu
+702,TRUE,404,www.princeton.edu,edu,edu
+703,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: hertz.njit.edu
+",hertz.njit.edu,edu,edu
+704,TRUE,404,www.cs.tu-berlin.de,de,de
+705,TRUE,404,www.princeton.edu,edu,edu
+706,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: stjohns.edu
+",stjohns.edu,edu,edu
+707,TRUE,404,www-personal.umich.edu,edu,edu
+708,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: math.uw.bialystok.pl
+",math.uw.bialystok.pl,pl,bialystok.pl
+709,TRUE,200,emporium.turnpike.net,net,net
+710,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: atos.psychpan.waw.pl
+",atos.psychpan.waw.pl,pl,waw.pl
+711,TRUE,200,www.ibb.waw.pl,pl,waw.pl
+712,TRUE,200,www.ibib.waw.pl,pl,waw.pl
+713,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: info.igf.edu.pl
+",info.igf.edu.pl,pl,edu.pl
+714,TRUE,200,info.ifpan.edu.pl,pl,edu.pl
+715,TRUE,200,www.ipipan.waw.pl,pl,waw.pl
+716,TRUE,200,www.iopan.gda.pl,pl,gda.pl
+717,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [immuno.pan.wroc.pl] Connection timed out after 10001 milliseconds
+",immuno.pan.wroc.pl,pl,wroc.pl
+718,TRUE,200,www.int.pan.wroc.pl,pl,wroc.pl
+719,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: wwwl.artsci.wustl.edu
+",wwwl.artsci.wustl.edu,edu,edu
+720,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: awf.wroc.pl~romek
+",www.awf.wroc.pl,pl,wroc.pl
+721,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www2.pbs.org
+",www2.pbs.org,org,org
+722,TRUE,404,www.tulane.edu,edu,edu
+723,TRUE,200,web.mit.edu,edu,edu
+724,TRUE,200,www.remember.org,org,org
+725,TRUE,404,modb.oce.ulg.ac.be,be,ac.be
+726,TRUE,404,hum.amu.edu.pl,pl,edu.pl
+727,TRUE,404,www.oryxpress.com,com,com
+728,TRUE,404,www.msstate.edu,edu,edu
+729,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [194.218.187.254] Connection timed out after 10001 milliseconds
+",194.218.187.254,NA,NA
+730,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.cityscape.co.uk] Failed to connect to www.cityscape.co.uk port 80: Przekroczony czas oczekiwania na połączenie
+",www.cityscape.co.uk,uk,co.uk
+731,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polishworld
+",www.polishworld,NA,NA
+732,TRUE,404,www.lib.berkeley.edu,edu,edu
+733,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.bot.astrouw.edu.pl
+",www.bot.astrouw.edu.pl,pl,edu.pl
+734,TRUE,404,www.amu.edu.pl,pl,edu.pl
+735,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: metro.jussieu.fr
+",metro.jussieu.fr,fr,fr
+736,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.netgate.plwaltrans
+",www.netgate.com.pl,pl,com.pl
+737,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.helion.com.pl] Connection timed out after 10001 milliseconds
+",www.helion.com.pl,pl,com.pl
+738,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: web.idireciom
+",web.idireciom,NA,NA
+739,TRUE,404,www.elektron.pl,pl,pl
+740,TRUE,404,www.elektron.pl,pl,pl
+741,TRUE,404,www.mtg.onet.pl,pl,pl
+742,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.kaszub.ternet.pl
+",www.kaszub.ternet.pl,pl,pl
+743,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pap.waw.pl
+",www.pap.waw.pl,pl,waw.pl
+744,TRUE,404,www.szczecin.pl,pl,szczecin.pl
+745,TRUE,404,www.it.com.pl,pl,com.pl
+746,TRUE,404,www.pg.gda.pl,pl,gda.pl
+747,TRUE,404,www.atm.com.pl,pl,com.pl
+748,TRUE,200,www.amw.net.pl,pl,net.pl
+749,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pik-net.gliwice.pl
+",www.pik-net.gliwice.pl,pl,gliwice.pl
+750,TRUE,200,www.ai.com.pl,pl,com.pl
+751,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.returnex.se
+",www.returnex.se,se,se
+752,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.urm.gov.pl
+",www.urm.gov.pl,pl,gov.pl
+753,TRUE,403,www.wtinet.com,com,com
+754,TRUE,404,www.comnet.pl,pl,pl
+755,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: certificate has expired
+",www.easynet.co.uk,uk,co.uk
+756,TRUE,404,www.ceo.cz,cz,cz
+757,TRUE,200,www.it.com.pl,pl,com.pl
+758,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.smithlyons.ca
+",www.smithlyons.ca,ca,ca
+759,TRUE,404,www.atm.com.pl,pl,com.pl
+760,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.swoc.gliwice.pl
+",www.swoc.gliwice.pl,pl,gliwice.pl
+761,TRUE,406,korona.com,com,com
+762,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: pro.logonet.com.pl
+",pro.logonet.com.pl,pl,com.pl
+763,TRUE,200,www.ternet.pl,pl,pl
+764,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10000 milliseconds
+",www.polbox.com.pl,pl,com.pl
+765,TRUE,200,www.it.com.pl,pl,com.pl
+766,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: artexpublish.com
+",artexpublish.com,com,com
+767,TRUE,404,www.comnet.pl,pl,pl
+768,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.poczta.com
+",www.poczta.com,com,com
+769,TRUE,404,www.comnet.pl,pl,pl
+770,TRUE,404,www.cliffordchance.com,com,com
+771,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",hg.org,org,org
+772,TRUE,200,www.amw.net.pl,pl,net.pl
+773,TRUE,200,www.amw.net.pl,pl,net.pl
+774,TRUE,404,w3.poland.net,net,net
+775,TRUE,200,www.marcotec.com.pl,pl,com.pl
+776,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.clico.krakow.pl'
+",www.clico.krakow.pl,pl,krakow.pl
+777,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.kki.krakow.pl] Connection timed out after 10001 milliseconds
+",www.kki.krakow.pl,pl,krakow.pl
+778,TRUE,200,www.aim.com.pl,pl,com.pl
+779,TRUE,404,w3.poland.net,net,net
+780,TRUE,404,www.xs4all.nl,nl,nl
+781,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: hamilton.netmedia.com
+",hamilton.netmedia.com,com,com
+782,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polonus.on.ca
+",www.polonus.on.ca,ca,on.ca
+783,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.kki.krakow.pl] Connection timed out after 10001 milliseconds
+",www.kki.krakow.pl,pl,krakow.pl
+784,TRUE,200,www.ternet.pl,pl,pl
+785,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.kki.krakow.pl] Connection timed out after 10000 milliseconds
+",www.kki.krakow.pl,pl,krakow.pl
+786,TRUE,200,www.avis.com,com,com
+787,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: interkom.magnum.lodz.pl
+",interkom.magnum.lodz.pl,pl,pl
+788,TRUE,404,www.elektron.pl,pl,pl
+789,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: awrsp.inet.com.pl
+",awrsp.inet.com.pl,pl,com.pl
+790,TRUE,404,www.ubique.com.pl,pl,com.pl
+791,TRUE,200,www.amw.net.pl,pl,net.pl
+792,TRUE,404,www.inet.com.pl,pl,com.pl
+793,TRUE,404,bazy.onet.pl,pl,pl
+794,TRUE,404,www.atm.com.pl,pl,com.pl
+795,TRUE,404,www.atm.com.pl,pl,com.pl
+796,TRUE,405,www.lot.com,com,com
+797,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.gorp.com
+",www.gorp.com,com,com
+798,TRUE,404,www.atm.com.pl,pl,com.pl
+799,TRUE,404,kinga.cyf-kr.edu.pl,pl,edu.pl
+800,TRUE,404,www.inglot.com,com,com
+801,TRUE,404,www.elektron.pl,pl,pl
+802,TRUE,404,www.elektron.pl,pl,pl
+803,TRUE,200,www.polart.com,com,com
+804,TRUE,404,www.sirius.com,com,com
+805,TRUE,404,www.polishworld.com,com,com
+806,TRUE,403,www.wtinet.com,com,com
+807,TRUE,404,waclaw.fema.krakow.pl,pl,krakow.pl
+808,TRUE,404,www.atm.com.pl,pl,com.pl
+809,TRUE,200,www.soft-tronik.com.pl,pl,com.pl
+810,TRUE,200,www.solidex.com.pl,pl,com.pl
+811,TRUE,404,www.suntech.com.pl,pl,com.pl
+812,TRUE,200,www.medianet.com.pl,pl,com.pl
+813,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.westwood.com.pl
+",www.westwood.com.pl,pl,com.pl
+814,TRUE,404,www.atm.com.pl,pl,com.pl
+815,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.altkom.krakow.pl
+",www.altkom.krakow.pl,pl,krakow.pl
+816,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",www.altkom.com.pl,pl,com.pl
+817,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+818,TRUE,200,www.doctorq.com,com,com
+819,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.dtm.lublin.pl
+",www.dtm.lublin.pl,pl,lublin.pl
+820,TRUE,404,www.hsn.com.pl,pl,com.pl
+821,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+822,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10000 milliseconds
+",www.polbox.com.pl,pl,com.pl
+823,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.jmk.lodz.pl
+",www.jmk.lodz.pl,pl,pl
+824,TRUE,200,www.horyzont-kpg.com.pl,pl,com.pl
+825,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.bci.krakow.pl] Connection timed out after 10001 milliseconds
+",www.bci.krakow.pl,pl,krakow.pl
+826,TRUE,403,www.krakow.ipl.net,net,net
+827,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10000 milliseconds
+",www.polbox.com.pl,pl,com.pl
+828,TRUE,200,www.solidex.com.pl,pl,com.pl
+829,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: interkom.magnum.lodz.pl
+",interkom.magnum.lodz.pl,pl,pl
+830,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.s3000.krakow.pl
+",www.s3000.krakow.pl,pl,krakow.pl
+831,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+832,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.bci.krakow.pl] Connection timed out after 10001 milliseconds
+",www.bci.krakow.pl,pl,krakow.pl
+833,TRUE,404,www.atm.com.pl,pl,com.pl
+834,TRUE,200,www.xerox.com.pl,pl,com.pl
+835,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL certificate problem: unable to get local issuer certificate
+",www.cpu-zeto.com.pl,pl,com.pl
+836,TRUE,404,www.elektron.pl,pl,pl
+837,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+838,TRUE,200,www.complex.com.pl,pl,com.pl
+839,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+840,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+841,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10000 milliseconds
+",www.polbox.com.pl,pl,com.pl
+842,TRUE,200,www.pl.ibm.com,com,com
+843,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.kaszub.ternet.pl
+",www.kaszub.ternet.pl,pl,pl
+844,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.kaszub.ternet.pl
+",www.kaszub.ternet.pl,pl,pl
+845,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.tpg.krakow.pl
+",www.tpg.krakow.pl,pl,krakow.pl
+846,TRUE,404,www.zem.co.uk,uk,co.uk
+847,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.gy.com
+",www.gy.com,com,com
+848,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.bci.krakow.pl] Connection timed out after 10001 milliseconds
+",www.bci.krakow.pl,pl,krakow.pl
+849,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.bci.krakow.pl] Connection timed out after 10000 milliseconds
+",www.bci.krakow.pl,pl,krakow.pl
+850,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.s3000.krakow.pl
+",www.s3000.krakow.pl,pl,krakow.pl
+851,TRUE,403,www.tagor.com.pl,pl,com.pl
+852,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [bbs.maloka.waw.pl] Connection timed out after 10001 milliseconds
+",bbs.maloka.waw.pl,pl,waw.pl
+853,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.bci.krakow.pl] Connection timed out after 10001 milliseconds
+",www.bci.krakow.pl,pl,krakow.pl
+854,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: jucek.fuw.edu.pl
+",jucek.fuw.edu.pl,pl,edu.pl
+855,TRUE,200,www.doctorq.com,com,com
+856,TRUE,404,www.hsn.com.pl,pl,com.pl
+857,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+858,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+859,TRUE,200,www.pl.ibm.com,com,com
+860,TRUE,200,www.idea.com.pl,pl,com.pl
+861,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10000 milliseconds
+",www.pol.pl,pl,pl
+862,TRUE,200,www.infoservice.com.pl,pl,com.pl
+863,TRUE,404,www.zeto.czest.pl,pl,czest.pl
+864,TRUE,200,www.vbo.net,net,net
+865,TRUE,200,www.perfekt.net,net,net
+866,TRUE,404,www.poland.net,net,net
+867,TRUE,200,www.pol-net.com,com,com
+868,TRUE,200,pan.net,net,net
+869,TRUE,403,www.wtinet.com,com,com
+870,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.abbpol.krakow.pl
+",www.abbpol.krakow.pl,pl,krakow.pl
+871,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+872,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.pol.pl] Connection timed out after 10001 milliseconds
+",www.pol.pl,pl,pl
+873,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.polweb.com.pl
+",www.polweb.com.pl,pl,com.pl
+874,TRUE,200,www.qdnet.pl,pl,pl
+875,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.sprint.com.pl] Connection timed out after 10001 milliseconds
+",www.sprint.com.pl,pl,com.pl
+876,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.tpnet.pl'
+",www.tpnet.pl,pl,pl
+877,TRUE,200,www.ternet.pl,pl,pl
+878,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.kaszub.ternet.pl
+",www.kaszub.ternet.pl,pl,pl
+879,TRUE,200,www.ispid.com.pl,pl,com.pl
+880,TRUE,200,www.itnet.com.pl,pl,com.pl
+881,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.kki.krakow.pl] Connection timed out after 10001 milliseconds
+",www.kki.krakow.pl,pl,krakow.pl
+882,TRUE,200,www.logonet.com.pl,pl,com.pl
+883,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.magnum.lodz.pl
+",www.magnum.lodz.pl,pl,pl
+884,TRUE,200,www.maloka.waw.pl,pl,waw.pl
+885,TRUE,200,www.wonet.com.pl,pl,com.pl
+886,TRUE,200,www.medianet.com.pl,pl,com.pl
+887,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.mikrozet.wroc.pl
+",www.mikrozet.wroc.pl,pl,wroc.pl
+888,TRUE,200,www.nask.pl,pl,pl
+889,TRUE,200,www.comnet.pl,pl,pl
+890,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.compart.lodz.pl
+",www.compart.lodz.pl,pl,pl
+891,TRUE,200,www.complex.com.pl,pl,com.pl
+892,TRUE,200,www.cyf-kr.edu.pl,pl,edu.pl
+893,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.dtm.lublin.pl
+",www.dtm.lublin.pl,pl,lublin.pl
+894,TRUE,200,www.doskomp.lodz.pl,pl,pl
+895,TRUE,200,www.elektron.pl,pl,pl
+896,TRUE,404,www.eu.net,net,net
+897,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.zalbix.wroc.pl
+",www.zalbix.wroc.pl,pl,wroc.pl
+898,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pap.waw.pl
+",www.pap.waw.pl,pl,waw.pl
+899,TRUE,200,www.amw.net.pl,pl,net.pl
+900,TRUE,200,www.odyssee.net,net,net
+901,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pol.front.net
+",www.pol.front.net,net,net
+902,TRUE,200,www.isisnet.com,com,com
+903,TRUE,200,www.ispid.com.pl,pl,com.pl
+904,TRUE,404,www.atm.com.pl,pl,com.pl
+905,TRUE,404,www.poland-biz.net,net,net
+906,TRUE,404,www.atm.com.pl,pl,com.pl
+907,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): SSL: no alternative certificate subject name matches target host name 'www.ruch.waw.pl'
+",www.ruch.waw.pl,pl,waw.pl
+908,TRUE,200,www.qdnet.pl,pl,pl
+909,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.orpha.com.pl
+",www.orpha.com.pl,pl,com.pl
+910,TRUE,200,www.vbo.net,net,net
+911,TRUE,404,www.atm.com.pl,pl,com.pl
+912,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.bydg.pdi.net
+",www.bydg.pdi.net,net,net
+913,TRUE,200,www.palmercenter.com,com,com
+914,TRUE,200,www.perytnet.pl,pl,pl
+915,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Failed to connect to www.dmbos.com.pl port 80: Połączenie odrzucone
+",www.dmbos.com.pl,pl,com.pl
+916,TRUE,404,www.atm.com.pl,pl,com.pl
+917,TRUE,404,www.astanet.com,com,com
+918,TRUE,200,www.vbo.net,net,net
+919,TRUE,404,www.poland-biz.net,net,net
+920,TRUE,200,www.vbo.net,net,net
+921,TRUE,200,www.vbo.net,net,net
+922,TRUE,403,www.vbo.no,no,no
+923,TRUE,404,w3.poland.net,net,net
+924,TRUE,200,users.aol.com,com,com
+925,TRUE,404,www.atm.com.pl,pl,com.pl
+926,TRUE,200,www.ternet.pl,pl,pl
+927,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: bwrbank.com.pl
+",bwrbank.com.pl,pl,com.pl
+928,TRUE,404,www.cyf-kr.edu.pl,pl,edu.pl
+929,TRUE,200,www.pbks.pl,pl,pl
+930,TRUE,404,www.securities.com.pl,pl,com.pl
+931,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.wbc.lublin.pl
+",www.wbc.lublin.pl,pl,lublin.pl
+932,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.nycom.net
+",www.nycom.net,net,net
+933,TRUE,404,www.man.poznan.pl,pl,poznan.pl
+934,TRUE,200,www.amw.net.pl,pl,net.pl
+935,TRUE,200,www.ternet.pl,pl,pl
+936,TRUE,404,www.geocities.com,com,com
+937,TRUE,404,www.comnet.pl,pl,pl
+938,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: host1.bielbit.bielsko.pl
+",host1.bielbit.bielsko.pl,pl,pl
+939,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Timeout was reached: [www.polbox.com.pl] Connection timed out after 10001 milliseconds
+",www.polbox.com.pl,pl,com.pl
+940,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: polweb.axnet.com
+",polweb.axnet.com,com,com
+941,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: online.biz.net.pl
+",online.biz.net.pl,pl,net.pl
+942,TRUE,200,www.teleadreson.com.pl,pl,com.pl
+943,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.waw.pdi.net
+",www.waw.pdi.net,net,net
+944,TRUE,404,business.poland.net,net,net
+945,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.netgate.ploptoscan
+",www.netgate.com.pl,pl,com.pl
+946,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: www.pip.com.pl
+",www.pip.com.pl,pl,com.pl
+947,TRUE,200,www.self-gov.org,org,org
+948,TRUE,404,www.ceo.cz,cz,cz
+949,TRUE,404,www.atm.com.pl,pl,com.pl
+950,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: zeus.polsl.gliwice.pl
+",zeus.polsl.gliwice.pl,pl,gliwice.pl
+951,TRUE,"Error in curl::curl_fetch_memory(url, handle = handle): Could not resolve host: weber.u.washington.edu
+",weber.u.washington.edu,edu,edu
